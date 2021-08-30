@@ -1,0 +1,16 @@
+.colores {
+    color: black;
+}
+
+.colores:hover{
+color: rgb(65, 65, 65); 
+text-decoration: none;   
+}
+
+#basic-nav-dropdown {
+    color: black;
+}
+
+.boton {
+    margin-right: 5px;
+}

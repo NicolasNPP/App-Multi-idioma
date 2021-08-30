@@ -1,0 +1,32 @@
+{
+    "header": {
+        "hello-world": "Last news"
+    },
+    "cards": {
+        "resultados-anteriores": "Previous results",
+        "ultima-semana": "Last week",
+        "proximas-temporadas": "Next seasons",
+        "ver": "View"
+    },
+    "menu": {
+        "inicio": "Home",
+        "servicios": "Services",
+        "catalogo": "Products",
+        "contacto": "Contact"
+    },
+    "tabla": {
+        "equipo": "Team",
+        "liga": "League",
+        "puntos": "Score",
+        "resultados": "Results"
+    },
+    "slide": {
+        "titulo": "Pro Soccer 2023",
+        "subtitulo": "New version of the game with better graphics and playability",
+        "titulodos": "Latest news from the European soccer leagues",
+        "subtitulodos": "Follow the day to day of the players, matches and much more!"
+    },
+    "contacto": {
+        "construccion": "Page under construction"
+    }
+}

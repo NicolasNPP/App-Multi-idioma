@@ -1,0 +1,32 @@
+{
+    "header": {
+        "hello-world": "Ùltimas noticias"
+    },
+    "cards": {
+        "resultados-anteriores": "Resultados anteriores",
+        "ultima-semana": "Ultima Semana",
+        "proximas-temporadas": "Proximas temporadas",
+        "ver": "Ver"
+    },
+    "menu": {
+        "inicio": "Inicio",
+        "servicios": "Servicios",
+        "catalogo": "Catalogo",
+        "contacto": "Contacto"
+    },
+    "tabla": {
+        "equipo": "Equipo",
+        "liga": "Liga",
+        "puntos": "Puntos",
+        "resultados": "Resultados"
+    },
+    "slide": {
+        "titulo": "Lanzamiento del nuevo Pro Soccer 2023",
+        "subtitulo": "Nueva version del juego con mejores graficos y jugabilidad",
+        "titulodos": "Ultimas novedades de las ligas de futbol europeas",
+        "subtitulodos": "Segui el dia a dia de los jugadores, partidos y mucho mas!"
+    },
+    "contacto": {
+        "construccion": "En construcción"
+    }
+}
